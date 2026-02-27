@@ -23,6 +23,13 @@ body{
     border-radius: 5px;
 }
 
+/* header */
+.header{
+    background-image: url(../images/developer.png), url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+}
+
 /* Nav styles */
 nav{
     display: flex;
